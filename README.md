@@ -9,7 +9,7 @@
 
 ### For Docker Installation:
 
-- Ensure you have Docker installed on your system.
+- Ensure you have `Docker` installed on your system.
 
 ## Running the Script
 
