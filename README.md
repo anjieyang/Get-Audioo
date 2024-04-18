@@ -4,7 +4,7 @@
 
 ### For Python Installation:
 
-- Ensure you have Python 3.6+ installed on your system.
+- Ensure you have `Python 3.6+` installed on your system.
 - Ensure `ffmpeg` is installed and accessible from the command line.
 
 ### For Docker Installation:
