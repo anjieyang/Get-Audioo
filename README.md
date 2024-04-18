@@ -11,14 +11,14 @@
 
 Althernatively, if you are using Docker, follow these steps:
 
-1. Download the `dockerhub_deploy.yml` from [here](https://drive.google.com/uc?export=download&id=1-wvAxlbW3fxk68BvvtXsAohPYbaAzDmv).
+1. Download the `get-audioo-deploy.yml` from [here](https://drive.google.com/uc?export=download&id=1-wvAxlbW3fxk68BvvtXsAohPYbaAzDmv).
 
 2. Modify `YOUR_VIDEO_PATH` in the `dockerhub_deploy.yml` file to the abosolute path where your video is saved.
 
 3. Run the Docker:
 
 ```bash
-docker-compose up --build
+docker-compose -f get-audioo-deploy.yml up -d
 ```
 
 ## Running the Script
