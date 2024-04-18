@@ -18,7 +18,7 @@ Althernatively, if you are using Docker, follow these steps:
 3. Run the Docker:
 
 ```bash
-dockerhub_deploy up --build
+docker-compose up --build
 ```
 
 ## Running the Script
