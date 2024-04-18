@@ -24,7 +24,7 @@ cd Get-Audioo
 
 2. Edit the `DIRECTORY_PATH` in `config.py` to the path you saved videos.
 
-3. Running the script:
+3. Run the script:
 
 ```bash
 python3 main.py
