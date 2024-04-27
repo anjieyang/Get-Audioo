@@ -1,1 +1,1 @@
-DIRECTORY_PATH = "/Users/anjieyang/Downloads/vfhq_100/"
+DIRECTORY_PATH = "YOUR_PATH"
